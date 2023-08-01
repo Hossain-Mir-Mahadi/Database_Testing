@@ -1,3 +1,6 @@
+This "Database Testing" repository includes comprehensive documentation for testing "College Library Management System" database. This database has a dedicated folder containing various files related to their respective test cases.
+
+
 Overview:
 This readme provides comprehensive information about the College Library Management System and its database testing. The system aims to streamline library operations and enhance the overall user experience for librarians and students. The following sections cover the objectives, key features, benefits, E-R diagram, database creation, table creation, data insertion, query execution, mind map, test case writing, test report generation, bug reporting, test metrics, and conclusion notes.
 
